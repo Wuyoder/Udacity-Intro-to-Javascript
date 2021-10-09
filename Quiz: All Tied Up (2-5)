@@ -1,0 +1,2 @@
+var joke = "Why couldn't the shoes go out and play?\nThey were all \"tied\" up!"/* write your joke here */
+console.log(joke);
