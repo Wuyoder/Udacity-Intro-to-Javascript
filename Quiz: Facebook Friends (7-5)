@@ -1,0 +1,17 @@
+var facebookProfile = {
+    name: "Wuyoder",
+    friends: 999,
+    messages: ["god","good","goood","gooood"],
+    postMessage: function (meme){
+        this.messages.push("meme");
+    },
+    deleteMessage: function deletePost(index){
+        this.messages.splice(index,1);
+    },
+    addFriend: function(){
+        this.friends++;
+    },
+    removeFriend: function(){
+        this.friends--;
+    }
+}
