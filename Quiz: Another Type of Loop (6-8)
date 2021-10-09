@@ -1,0 +1,13 @@
+test.forEach(function(num, i, k) {
+    if( num % 3 === 0){
+        k[i] += 100;}
+        //console.log(num);
+})
+console.log(test);
+
+test.map(function(num) {
+    if( num % 3 === 0){
+        num += 100;}
+        //console.log(num);
+})
+console.log(test);
