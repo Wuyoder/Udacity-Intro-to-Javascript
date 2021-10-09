@@ -1,0 +1,9 @@
+var adjective1="amazing";
+var adjective2="fun";
+var adjective3="entertaining";
+var sentence1="The Intro to JavaScript course is ";
+var sentence2=". James and Julia are so ";
+var sentence3=". I cannot wait to work through the rest of this "
+var sentence4=" content!";
+var madLib=sentence1+adjective1+sentence2+adjective2+sentence3+adjective3+sentence4;
+console.log(madLib)
