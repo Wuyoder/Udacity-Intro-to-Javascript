@@ -1,0 +1,4 @@
+prices[0] = 1;
+prices[2] = 1;
+prices[6] = 1;
+console.log(prices)
