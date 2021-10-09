@@ -1,0 +1,2 @@
+var udaciFamily = ["Julia" , "James" , "Wuyoder"];
+console.log(udaciFamily);
