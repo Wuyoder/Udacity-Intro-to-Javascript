@@ -1,0 +1,2 @@
+crew.push(doctor, sister, shepherd);
+console.log(crew);
