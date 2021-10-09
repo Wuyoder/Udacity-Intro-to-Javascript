@@ -1,0 +1,3 @@
+donuts.forEach(function(donuts){
+    console.log(donuts.type+" donuts cost $"+donuts.cost+" each");
+});
