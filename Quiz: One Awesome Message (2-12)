@@ -1,0 +1,5 @@
+var firstName = "Wuyoder";
+var interest = "coffee";
+var hobby = "drink my coffee";
+var awesomeMessage = "Hi, my name is " + firstName + ". I love " + interest + ". In my spare time, I like to " + hobby + ".";
+console.log(awesomeMessage);
