@@ -1,0 +1,5 @@
+for(var row = 0 ; row < 26 ; row++ ){
+    for(var column = 0 ; column < 100; column++){
+        console.log(row+"-"+column);
+    }
+}
