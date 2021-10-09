@@ -1,0 +1,2 @@
+var crew = [captain, second, pilot, companion, mercenary, mechanic];
+console.log(crew);
