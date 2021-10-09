@@ -1,0 +1,8 @@
+function buildTriangle(num){
+    var tri = "";
+    for(var i = 1; i<= num; i++){
+        tri += makeLine(i);
+    }
+    return tri;
+}
+console.log(buildTriangle(10))
