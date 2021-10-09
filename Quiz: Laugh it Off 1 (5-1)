@@ -1,0 +1,5 @@
+function laugh(){
+    h="hahahahahahahahahaha!";
+    return h;
+}
+console.log(laugh()/* call the laugh function */);
