@@ -1,0 +1,7 @@
+emotions("happy", function laugh(num){
+    var s = "";
+    for ( i = 0; i < num; i++){
+        s += "ha";
+    }
+    return s+"!";
+})
