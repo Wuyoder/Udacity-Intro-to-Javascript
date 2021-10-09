@@ -1,0 +1,8 @@
+function laugh(num){
+    var h = "ha";
+    for(var i = 1 ; i < num ; i++){
+        h = h + "ha";
+    }
+   return (h+"!");
+}
+console.log(laugh(7))
